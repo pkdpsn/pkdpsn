@@ -8,7 +8,7 @@ Bonjour! I'm Pranjal, an undergraduate student at IITK with a deep passion for m
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [pranjalpers@gmail.com](mailto:pranjalpers@gmail.com)
-* 🤝  I'm open to collaborating on
+* 🤝  I'm open to collaborating on ML RL Robotics
 
 ### Skills
 
