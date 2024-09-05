@@ -1,4 +1,4 @@
-Hi 👋 My name is Pranjal bhardwaj
+Hi 👋 My name is Pranjal Bhardwaj
 =================================
 
 Machine learning
